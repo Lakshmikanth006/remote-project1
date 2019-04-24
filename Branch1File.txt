@@ -1,2 +1,2 @@
 Branch1 first line i just added - Mr Kanth
-Branch1 line 2 i added to check for the merge conficts 
+Branch1 line 2 i added to check for the merge conficts - changed color to yellow 
